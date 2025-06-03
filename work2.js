@@ -1,7 +1,7 @@
 function fetchData() {
   return new Promise(resolve => {
     setTimeout(() => {
-      resolve({ name: "Amy", role: "Developer" });
+      resolve({ name: "Yagna", role: "Developer" });
     }, 1000);
   });
 }
